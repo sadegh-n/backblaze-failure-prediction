@@ -9,6 +9,7 @@
 *.gz
 *.sqlite
 *.db
+*.txt
 
 # Ignore any local data directories you might create
 data/
